@@ -1,3 +1,2 @@
-# hackerrank.com
-Solutions and tips </br>
-All solutions are sorted by topics
+## Solutions and tips </br>
+Solutions for hackerrank.com challenges are sorted by topics 
